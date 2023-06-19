@@ -1,0 +1,32 @@
+[
+  {
+    "heading": "Menstruation Tracking",
+    "text": "The menstrual cycle (when the lining of your uterus sheds) is followed by the follicular phase (when the follicles in your ovaries mature and prepare for the prime time: ovulation), ovulation (when the egg is released), and finally the luteal phase (when the egg travels down your fallopian tubes and prepares to bleed). You can track your period and cycle if you know this.",
+    "btn": "Track",
+    "id": "menstTrack"
+  },
+  {
+    "heading": "Preparation of Conception",
+    "text": "When sperm swims up through the vagina and fertilizes an egg in the fallopian tube, conception occurs. It happens within hours or days of having unprotected sex. The fertilized egg implants into the uterus after conception, and a pregnancy begins.",
+    "btn": "Details",
+    "id": "conception"
+  },
+  {
+    "heading": "Pregnancy",
+    "text": "Prenatal care is medical treatment provided during pregnancy. Your healthcare practitioner will check on you and your growing baby at each appointment. As soon as you find out you're pregnant, contact your provider and schedule your first prenatal care appointment. And, even if you're feeling good, keep all of your prenatal care appointments.",
+    "btn": "CheckUp",
+    "id": "pregnancy"
+  },
+  {
+    "heading": "Early Motherhood",
+    "text": "For many women around the world, motherhood is a big and crucial component of life. childbirth is regarded as vital to a woman's identity for women in communities where childbirth is greatly sought. Teenage motherhood, which occurs at a critical developmental moment in teens' lives, has been linked to negative social and health outcomes. The purpose of this study was to gather the lived experiences of African Australian young refugee women who had experienced early childbirth in Australia.",
+    "btn": "Help",
+    "id": "earlymotherhood"
+  },
+  {
+    "heading": "Menopause",
+    "text": " Menopause occurs 12 months following a woman's final menstrual. The years preceding that moment, during which women may experience changes in their monthly cycles, hot flashes, or other symptoms, are referred to as the menopausal transition or perimenopause. Menopause usually begins between the ages of 45 and 55.",
+    "btn": "Help",
+    "id": "menopause"
+  }
+]
